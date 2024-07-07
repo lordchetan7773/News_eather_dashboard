@@ -18,10 +18,27 @@ This project is a simple personal dashboard application built using ReactJS. It 
 - NewsAPI (or preferred news API): Fetches top news headlines.
 
 ## Project Setup
-    
+
 To run this project locally, follow these steps:
 
 1. Clone the repository:
 
    ```bash
    git clone <repository-url>
+2. Navigate into the project directory:
+
+   ```bash
+   cd personal-dashboard-app
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+3. Run the application:
+
+   ```bash
+   npm start
+3. Install dependencies:
+
+   ```bash
+   npm install
