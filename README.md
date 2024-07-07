@@ -1,8 +1,9 @@
 # Personal Dashboard Application
 
 ## Overview
-![Desktop View](./Screenshot 2024-07-07162829.png)
-![Desktop View](Screenshot 2024-07-07 162829.png)
+![Desktop View](1pic.png)
+![Desktop View](2pic.png)
+
 This project is a simple personal dashboard application built using ReactJS. It fetches current weather information and top news headlines using APIs and displays them in a clean, responsive layout.
 
 ## Features
