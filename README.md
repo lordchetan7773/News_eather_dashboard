@@ -34,11 +34,8 @@ To run this project locally, follow these steps:
 
    ```bash
    npm install
-3. Run the application:
+4. Run the application:
 
    ```bash
    npm start
-3. Install dependencies:
 
-   ```bash
-   npm install
